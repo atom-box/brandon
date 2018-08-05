@@ -13,3 +13,9 @@ mkdir -p src/web/scripts/reducers && touch src/web/scripts/reducers/products.js 
  mkdir -p src/web/scripts/enums && touch src/web/scripts/enums/products.js && touch src/web/scripts/enums/index.js
  mkdir -p src/web/scripts/routing && touch src/web/scripts/routing/dproducts.js && touch src/web/scripts/routing/index.js
 cal 1960
+##########
+ mkdir -p src/web/images
+ mkdir -p src/web/fonts
+mkdir -p src/web/root && touch src/web/root/robots.txt && touch src/web/root/web.config
+ touch Gulpfile.js
+touch webpack.js
