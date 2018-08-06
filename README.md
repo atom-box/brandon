@@ -1,5 +1,6 @@
 # The Modern JavaScript Toolbox: 20 Years in the Making!
-Git repository for my That Conference 2018 Precon: https://www.thatconference.com/Sessions/Session/12898
+Git repository for Brandon Martinez's That-Conference-2018 Precon: https://www.thatconference.com/Sessions/Session/12898
+The entire repo, as well as this Readme, are by Brandon Martinez.
 
 ## Abstract
 
